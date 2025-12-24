@@ -1,0 +1,19 @@
+# Système de Gestion des Étudiants - Version 2.0 Pro
+# Dépendances requises
+
+# Interface graphique moderne
+customtkinter>=5.2.0
+
+# Génération de graphiques
+matplotlib>=3.5.0
+
+# Traitement d'images (requis par CustomTkinter)
+Pillow>=9.0.0
+
+# Note: SQLite est inclus dans Python, pas besoin de l'installer
+
+# Installation rapide:
+# pip install -r requirements.txt
+
+# Ou individuellement:
+# pip install customtkinter matplotlib pillow
