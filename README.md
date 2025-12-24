@@ -150,34 +150,6 @@ Gestion_etudiant_COMPLET/
 
 ---
 
-## 📊 COMPARAISON AVEC VERSION 1.0
-
-| Fonctionnalité | Version 1.0 | Version 2.0 Pro |
-|----------------|-------------|-----------------|
-| **Base de données** | JSON | SQLite ⭐ |
-| **Interface** | Tkinter basique | CustomTkinter moderne ⭐ |
-| **Graphiques** | ❌ Aucun | ✅ 7 types ⭐ |
-| **Performance** | Lente (>1000 étudiants) | Rapide (illimité) ⭐ |
-| **Recherche** | Basique | Temps réel ⭐ |
-| **Design** | Standard | Mode sombre/clair ⭐ |
-| **Cards étudiants** | Liste simple | Cards colorées ⭐ |
-
----
-
-## 🎨 CAPTURES D'ÉCRAN
-
-### Interface Principale
-- Sidebar élégant avec navigation
-- Mode sombre par défaut
-- Cards interactives colorées selon la mention
-
-### Graphiques
-- Camembert avec couleurs personnalisées
-- Barres avec gradients
-- Courbes avec annotations
-
----
-
 ## 🔧 PERSONNALISATION
 
 ### Changer les couleurs
@@ -231,21 +203,6 @@ pip install --upgrade matplotlib pillow
 
 ---
 
-## 📈 AMÉLIORATIONS FUTURES POSSIBLES
-
-1. **Export PDF** des bulletins avec ReportLab
-2. **Envoi d'emails** automatiques aux étudiants
-3. **Import Excel** pour import massif
-4. **API REST** pour accès externe
-5. **Interface web** avec Flask
-6. **Authentification** multi-utilisateurs
-7. **Photos** des étudiants
-8. **Planning** et emploi du temps
-9. **Absences** et présences
-10. **Machine Learning** pour prédictions
-
----
-
 ## 💻 EXEMPLES DE CODE
 
 ### Créer un étudiant (code)
@@ -288,17 +245,5 @@ En cas de problème:
 Projet éducatif - Libre d'utilisation et de modification
 
 ---
-
-## 👨‍💻 CRÉDITS
-
-- **Interface**: CustomTkinter (TomSchimansky)
-- **Graphiques**: Matplotlib
-- **Base de données**: SQLite3
-- **Développement**: 2024
-
----
-
-**Version 2.0 Professional**
-*Mise à jour: Décembre 2024*
 
 🎉 **Profitez de votre nouveau système de gestion ultra-professionnel !** 🎉
